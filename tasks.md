@@ -41,8 +41,8 @@ Tasks
     - no later than August 2014
     - $50
 - food
-    - finilize menu
-    - finilize rentals
+    - finalize menu
+    - finalize rentals
     - cake
         - figure out vender
 - photographer
@@ -50,7 +50,7 @@ Tasks
         - found him
     - todo
         - deposit
-        - engagment photos
+        - engagement photos
             - pick outfits
         - create photo checklist
 - dj
@@ -61,20 +61,20 @@ Tasks
     - find better if possible
 - clothing
     - suit
-    - brides maids
+    - bridesmaid
     - wedding bands
 - decor/flowers
     - wooden letters
     - maps
-    - butenears/corsages/boucaes
+    - boutonnieres/corsages/bouquets
 - lodging
 - invitations
     - invitations
     - save the dates
 - register
-- honymoon
+- honeymoon
 - centerpieces
     - books (3 books per table X 13 tables)
     - mini pumpkins
     - mason jars (for flowers)
-    - airloom candle sticks for our table
+    - heirloom candle sticks for our table
