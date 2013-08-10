@@ -78,9 +78,12 @@ Tasks
         - waiting on engagement photos
         - vista print
 - register
+    - target
 - honeymoon
 - centerpieces
     - books (3 books per table X 13 tables)
     - mini pumpkins
     - mason jars (for flowers)
     - heirloom candle sticks for our table
+- wedding website
+    - the knot
