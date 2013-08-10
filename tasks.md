@@ -45,3 +45,27 @@ Tasks
     - finilize rentals
     - cake
         - figure out vender
+- photographer
+    - done
+        - found him
+    - todo
+        - deposit
+        - engagment photos
+            - pick outfits
+        - create photo checklist
+- dj
+    - look at contract
+    - send deposit
+    - pick music
+- transportation
+    - find better if possible
+- clothing
+    - suit
+    - brides maids
+- decor/flowers
+- lodging
+- invitations
+    - invitations
+    - save the dates
+- register
+- honymoon
