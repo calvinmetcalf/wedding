@@ -62,10 +62,19 @@ Tasks
 - clothing
     - suit
     - brides maids
+    - wedding bands
 - decor/flowers
+    - wooden letters
+    - maps
+    - butenears/corsages/boucaes
 - lodging
 - invitations
     - invitations
     - save the dates
 - register
 - honymoon
+- centerpieces
+    - books (3 books per table X 13 tables)
+    - mini pumpkins
+    - mason jars (for flowers)
+    - airloom candle sticks for our table
