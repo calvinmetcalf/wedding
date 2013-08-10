@@ -1,2 +1,47 @@
-Task
+Tasks
 ===
+
+- venue
+    - done
+        - reserved room
+    -  todo
+        - contract
+        - bartender
+        - decide how much to spend
+- ceremony
+    - done
+        - reserved
+    - todo
+        - pay for it
+        - pre cana classes
+        - meet new priest
+        - meet singers etc
+        - figure out bishop's dispensation
+        - unity candle
+        - select readings
+        - select songs
+    - roles
+        - readings
+            - charlie
+            - elizabeth
+        - petitions
+            - content
+            - readers
+                - katie
+                - matt nash
+                - nicole nash
+                - ellen linso
+        - eucharistic minister
+        - gift bearers
+            - sam
+            - mike nash
+            - danny
+            - franky
+- marriage license
+    - no later than August 2014
+    - $50
+- food
+    - finilize menu
+    - finilize rentals
+    - cake
+        - figure out vender
