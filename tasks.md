@@ -68,9 +68,15 @@ Tasks
     - maps
     - boutonnieres/corsages/bouquets
 - lodging
+    - book blocks of room
+    - also have airbnb option
+    - holiday inn express
+    - resident inn by mariot
 - invitations
     - invitations
     - save the dates
+        - waiting on engagement photos
+        - vista print
 - register
 - honeymoon
 - centerpieces
