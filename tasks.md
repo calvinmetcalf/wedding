@@ -67,6 +67,7 @@ Tasks
     - wooden letters
     - maps
     - boutonnieres/corsages/bouquets
+    - guest book
 - lodging
     - book blocks of room
     - also have airbnb option
@@ -87,3 +88,7 @@ Tasks
     - heirloom candle sticks for our table
 - wedding website
     - the knot
+- baskets
+    - welcome baskets for out of town guests
+    - bathroom baskets at the reception
+    - favours, explanations for people of why they can go to hell for suggesting them
